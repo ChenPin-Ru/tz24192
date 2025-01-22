@@ -41,7 +41,7 @@ git clone git@github.com:<your-repository-url>
 
 Navigate to the project directory:
 
-cd <project-directory>
+cd  <project-directory>
 
 Compile the source code:
 
